@@ -247,11 +247,14 @@ function App() {
                 <MapPin size={17} /> Lyon & alentours
               </div>
               <h1>
-                Vos travaux, réalisés <span>avec soin.</span>
+                Artisan rénovation à Lyon{" "}
+                <span>et dans la métropole lyonnaise</span>
               </h1>
               <p className="hero-text">
-                Artisan polyvalent pour vos projets de cuisine, parquet,
-                peinture, portes, fenêtres, bricolage et rénovation intérieure.
+                ALEANET réalise vos travaux de rénovation intérieure à Lyon,
+                Villeurbanne, Vénissieux et dans toute la métropole lyonnaise :
+                peinture, parquet, cuisine, portes, fenêtres, bricolage et
+                petits travaux.{" "}
               </p>
               <div className="hero-actions">
                 <button
