@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aleanet.github.io/ALEANET/sitemap.xml
+Sitemap: https://aleanet.github.io/sitemap.xml
