@@ -15,8 +15,5 @@
     "react-dom": "latest",
     "typescript": "latest",
     "vite": "latest"
-  },
-  "devDependencies": {
-    "vite-plugin-sitemap": "^0.8.2"
   }
 }
